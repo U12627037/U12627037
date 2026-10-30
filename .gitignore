@@ -35,7 +35,6 @@ data/interim/**/*.md
 data/processed/**/*.json
 !data/interim/**/.keep
 !data/processed/**/.keep
-
 # 大型二進位檔、壓縮檔與模型權重 (Large binary files, archives & model weights)
 *.bin
 *.pt

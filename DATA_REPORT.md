@@ -170,4 +170,5 @@ Regulatory Agency：Office of Library and Information Services
 ## 5. AI 協作 (AI Collaboration)
 
 - 本次作業的 AI 協作紀錄請見 [`AI_USAGE.md`](AI_USAGE.md) 的「Week 04 / 08」與「Week 09」段落。
-- 這次使用 AI 最大的收穫或教訓是 ___（請具體：例如提示詞中哪一段最關鍵、AI 哪一句解讀不正確）
+- 這次使用 AI 最大的收穫或教訓是：AI 的解讀聽起來合理，但查證後兩句都只是部分正確：TAR 的解釋漏了「文件第一行要是 ## 標題」的條件，空白表格的說法則是以偏概全。AI 的結論都要回到程式和檔案查證，才能寫進報告。
+（請具體：例如提示詞中哪一段最關鍵、AI 哪一句解讀不正確）
